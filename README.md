@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 AaronWu77
+Copyright (c) 2026 AaronWu77
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -42,5 +42,3 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 [![AaronWu77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronWu77&bg_color=000000&line=00BFFF&color=00BFFF&point=)](https://github.com/AaronWu77/github-readme-activity-graph)
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,c,cpp,github,html,js,latex,md,obsidian,py,pytorch,vscode&theme=dark)](https://skillicons.dev)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rAaronWu77&theme=onedark)](https://github-profile-trophy-liard-delta.vercel.app)
