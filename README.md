@@ -35,4 +35,8 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 <img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=AF7DF7&center=true&width=435&lines=Welcome+to+my+Github+Profile+Page+!;Hope+my+project+can+be+helpful." alt="Typing SVG" /></a></a>
 </p>
 
-[![AaronWu77's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronWu77)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AaronWu77&theme=sakura-x&border_radius=6" alt="GitHub Streak" /></a>
+</p>
+
+[![AaronWu77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronWu77&bg_color=000000&line=00BFFF&color=00BFFF&point=)](https://github.com/AaronWu77/github-readme-activity-graph)
