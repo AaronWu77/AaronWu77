@@ -32,5 +32,7 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&center=true&width=435&lines=Welcome+to+my+Github+Profile+Page+!;Hope+my+project+can+be+helpful" alt="Typing SVG" /></a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronWu77&show_icons=true&theme=transparent)
