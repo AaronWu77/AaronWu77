@@ -32,7 +32,15 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&center=true&width=435&lines=Welcome+to+my+Github+Profile+Page+!;Hope+my+project+can+be+helpful" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&pause=1000&color=AF7DF7&center=true&width=435&lines=Welcome+to+my+Github+Profile+Page+!;Hope+my+project+can+be+helpful." alt="Typing SVG" /></a></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronWu77&show_icons=true&theme=transparent)
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AaronWu77&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=AaronWu77&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- self-host in Vercel -->
+    <img width="400" src="https://github-readme-streak-stats-AaronWu77.vercel.app?user=AaronWu77&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</p>
