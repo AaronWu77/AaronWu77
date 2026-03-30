@@ -40,3 +40,7 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 </p>
 
 [![AaronWu77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronWu77&bg_color=000000&line=00BFFF&color=00BFFF&point=)](https://github.com/AaronWu77/github-readme-activity-graph)
+
+[![My Skills](https://skillicons.dev/icons?i=anaconda,c,cpp,github,html,js,latex,md,obsidian,py,pytorch,vscode&theme=dark)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rAaronWu77&theme=onedark)](https://github-profile-trophy-liard-delta.vercel.app)
