@@ -42,3 +42,7 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 [![AaronWu77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronWu77&bg_color=000000&line=00BFFF&color=00BFFF&point=)](https://github.com/AaronWu77/github-readme-activity-graph)
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,c,cpp,github,html,js,latex,md,obsidian,py,pytorch,vscode&theme=dark)](https://skillicons.dev)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DDA0DD,100:4B0082&height=300&section=header&text=SImply%20lovely&fontSize=90&fontColor=d6ace6" />
+</p>
