@@ -44,5 +44,5 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,c,cpp,github,html,js,latex,md,obsidian,py,pytorch,vscode&theme=dark)](https://skillicons.dev)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DDA0DD,100:4B0082&height=300&section=header&text=SImply%20lovely&fontSize=90&fontColor=d6ace6" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:DDA0DD,100:4B0082&height=300&section=header&text=Simply%20lovely&fontSize=90&fontColor=d6ace6" />
 </p>
