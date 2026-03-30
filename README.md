@@ -36,7 +36,7 @@ Source repository: <https://github.com/AaronWu77/AaronWu77>
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AaronWu77&theme=sakura-x&border_radius=6" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AaronWu77&theme=sakura-x&border_radius=6&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 [![AaronWu77's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AaronWu77&bg_color=000000&line=00BFFF&color=00BFFF&point=)](https://github.com/AaronWu77/github-readme-activity-graph)
